@@ -47,7 +47,15 @@ Alongside building this application, we have learned how to use the most in-dema
 6. Provided a quick and easy way for your users to log in and register using Google \*\*\*\*Auth
 7. And most importantly, learned to build React-based CRUD applications incredibly quickly using refine.
 
-Developed by [@imdevesh01](https://github.com/imdevesh01)
+Overview :-
+
+--> Tools & Technologies Used - ReactJS, NodeJS, ExpressJS, MongoDB and Refine.
+--> Implemented a user-friendly interface allowing users to search, browse, and filter property listings based on various criteria such as price etc.
+--> Integrated secure user authentication and authorization features.
+--> Implemented CRUD (Create, Read, Update, Delete) operations for property listings, to add new listings, update existing ones, and remove properties from the platform.
+--> Developed a comprehensive dashboard with monitoring capabilities, providing real-time data insights and analytics
+
+Developed by [@imdevesh01](https://github.com/imdevesh01) & [@princeahlawat16](https://github.com/princeahlawat16)
 
 ## Try it out on your local
 
