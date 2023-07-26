@@ -30,10 +30,10 @@
 
 # Full Stack MERN Dashboard App Using Refine - Server App
 
-<img src="/mern-dashboard-client/dashboard.png"   style="width:350px;" align="center" />
-<img src="/mern-dashboard-client/profile.png"   style="width:350px;" align="center" />
+<img src="/mern-dashboard-client/dashboard.png"   style="width:550px;height:400px;" align="center" style="margin: 30px; />
+<img src="/mern-dashboard-client/profile.png"   style="width:550px;height:400px;" align="center"  style="margin: 30px;/>
 
-[Refer to the client app source code](https://github.com/refinedev/refine/tree/master/examples/mern-dashboard-client)
+[Refer to the client app source code](https://github.com/imdevesh01/DreamDwell/tree/main/mern-dashboard-client)
 
 With modern material design, a fully functional dashboard, a property management page, and a users page - both connected to our database and a profile page that connects the two, this video is the updated full-stack MERN course you’ve all been waiting for.
 
