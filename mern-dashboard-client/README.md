@@ -1,11 +1,11 @@
-<div allign="center" style="margin: 30px;">
+<div align="center" style="margin: 30px;">
 <a href="https://refine.dev/">
   <img src="https://raw.githubusercontent.com/refinedev/refine/master/logo.png"   style="width:350px;" align="center"/>
 </a>
 <br />
 <br />
 
-<div allign="center">
+<div align="center">
     <a href="https://refine.dev">Home Page</a> |
     <a href="https://discord.gg/refine">Discord</a> |
     <a href="https://refine.dev/examples/">Examples</a> | 
@@ -16,7 +16,7 @@
 
 <br />
 
-<div allign="center"><strong>Build your <a href="https://reactjs.org/">React</a>-based CRUD applications, without constraints.</strong><br>An open source, headless web application framework developed with flexibility in mind.
+<div align="center"><strong>Build your <a href="https://reactjs.org/">React</a>-based CRUD applications, without constraints.</strong><br>An open source, headless web application framework developed with flexibility in mind.
 
 <br />
 <br />
@@ -30,8 +30,8 @@
 
 # Build and Deployed a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine - Client App
 
-<img src="/mern-dashboard-client/dashboard.png"   style="width:550px;height:400px;margin: 30px;" allign="center" />
-<img src="/mern-dashboard-client/profile.png"   style="width:550px;height:400px;margin: 30px;" allign="center"/>
+<img src="/mern-dashboard-client/dashboard.png"   style="width:550px;height:300px;margin: 30px;" align="center" />
+<img src="/mern-dashboard-client/profile.png"   style="width:550px;height:300px;margin: 30px;" align="center"/>
 
 [Refer to the server app source code](https://github.com/imdevesh01/DreamDwell/tree/main/mern-dashboard-server)
 
