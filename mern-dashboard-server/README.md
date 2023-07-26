@@ -1,11 +1,11 @@
-<div align="center" style="margin: 30px;">
+<div allign="center" style="margin: 30px;">
 <a href="https://refine.dev/">
-  <img src="https://raw.githubusercontent.com/refinedev/refine/master/logo.png"   style="width:350px;" align="center" />
+  <img src="https://raw.githubusercontent.com/refinedev/refine/master/logo.png"   style="width:350px;" allign="center" />
 </a>
 <br />
 <br />
 
-<div align="center">
+<div allign="center">
     <a href="https://refine.dev">Home Page</a> |
     <a href="https://discord.gg/refine">Discord</a> |
     <a href="https://refine.dev/examples/">Examples</a> | 
@@ -16,7 +16,7 @@
 
 <br />
 
-<div align="center"><strong>Build your <a href="https://reactjs.org/">React</a>-based CRUD applications, without constraints.</strong><br>An open source, headless web application framework developed with flexibility in mind.
+<div allign="center"><strong>Build your <a href="https://reactjs.org/">React</a>-based CRUD applications, without constraints.</strong><br>An open source, headless web application framework developed with flexibility in mind.
 
 <br />
 <br />
@@ -30,8 +30,8 @@
 
 # Full Stack MERN Dashboard App Using Refine - Server App
 
-<img src="/mern-dashboard-client/dashboard.png"   style="width:550px;height:400px;" align="center" style="margin: 30px; />
-<img src="/mern-dashboard-client/profile.png"   style="width:550px;height:400px;" align="center"  style="margin: 30px;/>
+<img src="/mern-dashboard-client/dashboard.png"   style="width:550px;height:400px;margin: 30px;" allign="center"/>
+<img src="/mern-dashboard-client/profile.png"   style="width:550px;height:400px;margin: 30px;" allign="center"/>
 
 [Refer to the client app source code](https://github.com/imdevesh01/DreamDwell/tree/main/mern-dashboard-client)
 
@@ -47,8 +47,7 @@ Alongside building this application, you'll learn how to use the most in-demand 
 6. Provide a quick and easy way for your users to log in and register using Google \*\*\*\*Auth
 7. And most importantly, you’ll learn how to build React-based CRUD applications incredibly quickly using refine.
 
-Developed by [@adrianhajdin](https://github.com/adrianhajdin) ([JavaScript Mastery](https://www.youtube.com/@javascriptmastery)).
-Launch your development career with project-based coaching - [JS Mastery Pro](https://www.jsmastery.pro)
+Developed by [@imdevesh01](https://github.com/imdevesh01)
 
 ## Try it out on your local
 
