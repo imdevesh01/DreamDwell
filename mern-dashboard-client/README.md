@@ -49,11 +49,11 @@ Alongside building this application, we have learned how to use the most in-dema
 
 Overview :-
 
---> Tools & Technologies Used - ReactJS, NodeJS, ExpressJS, MongoDB and Refine.
---> Implemented a user-friendly interface allowing users to search, browse, and filter property listings based on various criteria such as price etc.
---> Integrated secure user authentication and authorization features.
---> Implemented CRUD (Create, Read, Update, Delete) operations for property listings, to add new listings, update existing ones, and remove properties from the platform.
---> Developed a comprehensive dashboard with monitoring capabilities, providing real-time data insights and analytics
+--> Tools & Technologies Used - ReactJS, NodeJS, ExpressJS, MongoDB and Refine. <br>
+--> Implemented a user-friendly interface allowing users to search, browse, and filter property listings based on various criteria such as price etc. <br>
+--> Integrated secure user authentication and authorization features.<br>
+--> Implemented CRUD (Create, Read, Update, Delete) operations for property listings, to add new listings, update existing ones, and remove properties from the platform.<br>
+--> Developed a comprehensive dashboard with monitoring capabilities, providing real-time data insights and analytics.<br>
 
 Developed by [@imdevesh01](https://github.com/imdevesh01) & [@princeahlawat16](https://github.com/princeahlawat16)
 
