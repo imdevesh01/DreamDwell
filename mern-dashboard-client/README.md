@@ -28,7 +28,7 @@
 
 </div>
 
-# Build and Deployed a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine - Client App
+# Built and Deployed a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine - Client App
 
 <img src="/mern-dashboard-client/dashboard.png"   style="width:550px;height:300px;margin: 30px;" align="center" />
 <img src="/mern-dashboard-client/profile.png"   style="width:550px;height:300px;margin: 30px;" align="center"/>
